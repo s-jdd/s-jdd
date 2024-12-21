@@ -12,13 +12,6 @@ module.exports = `
 
 Basic skills :
 
-
-![Static Badge](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23FF6600)
-![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&color=%23663399)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
 ![Static Badge](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white&color=%23FF6600)
 ![Static Badge](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3&color=%23663399)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

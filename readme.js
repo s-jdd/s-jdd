@@ -1,3 +1,4 @@
+module.exports = `
 ![Profile Banner](./images/github-header-image.png)
 
 ---
@@ -42,10 +43,6 @@ Database skills :
 ![Contributions](https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&theme=radical)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-d-utilisateur&layout=compact&theme=radical)
 
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votreprofil)
-**s-jdd/s-jdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -57,3 +54,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Visitor count
+
+<img src="https://profile-counter.glitch.me/s-jdd/count.svg" />
+
+Added the \`Mon 21 Dec 2024\`
+
+Last update on <#today_date>
+
+<#day_before_new_years> days before new years
+
+<#gabot_signing>
+`;

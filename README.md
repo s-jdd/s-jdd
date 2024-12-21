@@ -8,7 +8,6 @@
 <!--[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votremail@example.com)-->
 
 ---
----
 ## Technical skills :
 
 Basic skills :
@@ -19,7 +18,6 @@ Basic skills :
 
 Frontend skills :
 
-Frontend skills :
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
@@ -27,19 +25,13 @@ Backend skills :
 
 
 
-Backend skills :
-
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 
 Database skills : 
 
-Database skills : 
 
 ![Static Badge](https://img.shields.io/badge/solidity-black?style=for-the-badge&logo=solidity&color=%235554d9)
 
-[Back to top](#top)
-[Back to top](#top)
 <!--
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ## Statistiques GitHub
@@ -69,3 +61,5 @@ Last update on <#today_date>
 <#day_before_new_years> days before new years
 
 <#gabot_signing>
+
+[Back to top](#top)

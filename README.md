@@ -17,8 +17,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="xd" **alt="xd" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Githubactions" **alt="Githubactions" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="photoshop" **alt="photoshop" width="40" height="40"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" title="xd" **alt="xd" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp;
     <h5>👨‍💻 Basic skills </h5>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
@@ -45,9 +46,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg"  title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
-    <h5>🤖 Automate skills </h5>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" title="Githubactions" **alt="Githubactions" width="40" height="40"/>&nbsp;
     <h5>➕ Others skills </h5>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;

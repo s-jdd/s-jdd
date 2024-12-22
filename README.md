@@ -1,4 +1,3 @@
-
 ![Profile Banner](./images/github-header-image.png)
 
 <hr />
@@ -35,7 +34,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="Nextjs"  alt="Nextjs" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" title="mongodb"  alt="threejs" width="40" height="40"/>&nbsp;     
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" title="mongodb"  alt="threejs" width="40" height="40"/>&nbsp;
     <h5>Backend skills </h5>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" title="Symphony"  alt="Symphony" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -104,12 +103,12 @@ Here are some ideas to get you started:
 <img src="https://profile-counter.glitch.me/s-jdd/count.svg" />
 <di>
 
-Added the \`Mon 21 Dec 2024\`
+Added the `Mon 21 Dec 2024`
 
-Last update on <#today_date>
+Last update on Sun Dec 22 2024
 
-<#day_before_new_years> days before new years
+**10 day before 2025 ⏱** days before new years
 
-<#gabot_signing>
+🤖 This README.md is updated with hate, by Gabot ❤️
 
 [Back to top](#top)

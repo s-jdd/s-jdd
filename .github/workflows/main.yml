@@ -26,7 +26,7 @@ jobs:
         uses: EndBug/add-and-commit@v4
         with:
           author_name: s-jdd
-          author_email: jdd.dev.test@gmail.com
+          author_email: ${{ secrets.EMAIL }}
           force: false
           signoff: false
           message: ':memo: README.md updated by Gitbot'

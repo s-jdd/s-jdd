@@ -1,22 +1,20 @@
 name: Update README all day at 04:04
-
 on:
   push:
   workflow_dispatch:
   schedule:
     # “At 13:37 on every day-of-week from Monday through Friday.”
     - cron: '03 4 * * *'
-
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [18]
+        node-version: [18.x]
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v3
         with:
           node-version: ${{ matrix.node-version }}
       - name: Update README.md file
@@ -31,7 +29,7 @@ jobs:
           author_email: jdd.dev.test@gmail.com
           force: false
           signoff: false
-          message: ':memo: README.md updated by Gitbot'
+          message: ':memo: README.md updated by Gabot'
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

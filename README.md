@@ -109,6 +109,6 @@ Last update on Sun Dec 22 2024
 
 **10 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with hate, by Gabot ❤️
+<#gabot_signing>
 
 [Back to top](#top)

@@ -25,17 +25,17 @@ jobs:
       - name: commit changes
         uses: EndBug/add-and-commit@v9
         with:
+          # The message for the commit.
+          # Default: 'Commit from GitHub Actions (name of the workflow)'
+          message: ':memo: README.md updated by Gitbot'
           # The name of the user that will be displayed as the author of the commit.
           # Default: depends on the default_author input
           author_name: s-jdd
           # The email of the user that will be displayed as the author of the commit.
           # Default: depends on the default_author input
           author_email: ${{ secrets.EMAIL }}
-          force: false
-          signoff: false
-          # The message for the commit.
-          # Default: 'Commit from GitHub Actions (name of the workflow)'
-          message: ':memo: README.md updated by Gitbot'
+          # force: false
+          # signoff: false
         env:
           # This is necessary in order to push a commit to the repo
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

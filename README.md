@@ -103,10 +103,10 @@ Here are some ideas to get you started:
 
 Added the `Mon 21 Dec 2024`
 
-Last update on Wed Dec 25 2024
+Last update on Thu Dec 26 2024
 
-**7 day before 2025 ⏱** days before new years
+**6 day before 2025 ⏱** days before new years
 
-🤖 This README.md is updated with wickedness, by Gitbot ❤️
+🤖 This README.md is updated with cruelty, by Gitbot ❤️
 
 [Back to top](#top)
